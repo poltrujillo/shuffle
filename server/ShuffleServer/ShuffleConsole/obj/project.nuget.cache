@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkF2Zs9UvkMMRhEwKEnXCCpMXZ4z31jjhbYIgo/Ls5lNTg2ubj/mYXPYVBn3wtb56UZYvvw5T2welyR9hsJmPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramon\\Desktop\\M03\\serverlaravel\\projecte-aplicaci-extra-tim-berners-lee\\ShuffleServer\\ShuffleConsole\\ShuffleConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

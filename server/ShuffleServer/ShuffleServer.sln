@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleServer", "ShuffleServer\ShuffleServer.csproj", "{5D8A48F4-C9B5-4563-A52D-3685A85973C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleConsole", "ShuffleConsole\ShuffleConsole.csproj", "{70FC09FF-D515-412A-BF4D-1E176796B4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8A48F4-C9B5-4563-A52D-3685A85973C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8A48F4-C9B5-4563-A52D-3685A85973C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8A48F4-C9B5-4563-A52D-3685A85973C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8A48F4-C9B5-4563-A52D-3685A85973C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FC09FF-D515-412A-BF4D-1E176796B4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FC09FF-D515-412A-BF4D-1E176796B4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FC09FF-D515-412A-BF4D-1E176796B4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FC09FF-D515-412A-BF4D-1E176796B4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105B6B06-DA35-4821-AE09-979B4D791C3C}
+	EndGlobalSection
+EndGlobal
