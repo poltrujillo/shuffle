@@ -141,7 +141,7 @@ Requirements for the software and other tools to build, test and push
 
 4. Enviar la fingerprint a el sigueinte correo para que te podamos añadir al dashbord de spotify
    ```sh
-   ramon.mormeneo@gracia.lasalle.cat
+   poltrujillo7@gmail.com
    ```
 
 5. Abrir el fichero Constantes.kt y cambiar las ip's por sus correspondientes del servidor larabel y C#
